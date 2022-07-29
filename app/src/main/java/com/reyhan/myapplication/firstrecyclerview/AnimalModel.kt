@@ -1,0 +1,3 @@
+package com.reyhan.myapplication.firstrecyclerview
+
+class AnimalModel
